@@ -1,24 +1,23 @@
-
 [
   {
-  "id": "sample1",
-  "title": "CKT Gossip Sample Post",
-  "body": "This post contains an image and a video from Google Drive.",
-  "media": [
-    {
-      "url": "https://drive.google.com/uc?export=download&id=1BezhCiZhKXy42OP2AdVGdGDA2S8lKUS7",
-      "type": "image"
+    "id": "sample1",
+    "title": "CKT Gossip Sample Post",
+    "body": "This post contains an image and a video from Google Drive.",
+    "media": [
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1BezhCiZhKXy42OP2AdVGdGDA2S8lKUS7",
+        "type": "image"
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1BgpnnnXH-d72zTOsRLnrM-je1TABZdnV",
+        "type": "video"
+      }
+    ],
+    "profile": {
+      "name": "CKT Gossip"
     },
-    {
-      "url": "https://drive.google.com/uc?export=download&id=1BgpnnnXH-d72zTOsRLnrM-je1TABZdnV",
-      "type": "video"
-    }
-  ],
-  "profile": {
-    "name": "CKT Gossip"
+    "date": "2025-07-04"
   },
-  "date": "2025-07-04"
-}
   {
     "id": "1",
     "profile": {
