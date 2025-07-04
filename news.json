@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "profile": {
+      "name": "CKT MIS",
+      "avatar": "https://example.com/avatar.jpg"
+    },
+    "title": "Welcome!",
+    "body": "This is the first news item.",
+    "media": "https://example.com/image1.jpg",
+    "mediaType": "image",
+    "date": "2025-07-04"
+  }
+]
